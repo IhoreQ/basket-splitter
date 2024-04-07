@@ -1,7 +1,5 @@
 package pl.ibobek.basket.model;
 
-import pl.ibobek.basket.model.Product;
-
 import java.util.Comparator;
 import java.util.List;
 import java.util.Map;

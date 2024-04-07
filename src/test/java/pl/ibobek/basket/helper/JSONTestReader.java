@@ -1,4 +1,4 @@
-package pl.ibobek.basket.util;
+package pl.ibobek.basket.helper;
 
 import com.fasterxml.jackson.core.type.TypeReference;
 import com.fasterxml.jackson.databind.ObjectMapper;
