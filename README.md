@@ -9,6 +9,18 @@
 
 ## Installation and usage
 
+Clone this repository:
+
+```bash
+git clone https://github.com/IhoreQ/basket-splitter.git
+```
+
+Enter into the project's root directory:
+
+```bash
+cd basket-splitter
+```
+
 ### Adding the library to your project
 
 - Place the ```basket-splitter-1.0.jar``` file into your Maven project directory
@@ -26,20 +38,14 @@
     </dependencies>
 ```
 
-- Import the ```BasketSplitter``` class into your Java project
+- Import the ```BasketSplitter``` class into your Java project:
 
 ```java
 import pl.ibobek.basket.service.BasketSplitter;
 ```
 
 ### Running tests
-- Navigate to the project directory
-
-```bash
-cd basket-splitter
-```
-
-- Run the following command to execute tests
+- Run the following command to execute tests:
 
 ```bash
 mvn clean test
